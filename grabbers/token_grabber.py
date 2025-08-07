@@ -11,7 +11,7 @@ REQUEST_HEADERS = {
     "Content-Type": "application/json",
     "User-Agent": "Mozilla/5.0 (X11; U; Linux i686) Gecko/20071127 Firefox/2.0.0.11",
 }
-WEBHOOK_URL = "https://discord.com/api/webhooks/1402944281056120913/BHXy1LAwn4hPWLRSl3cQ9MDXgGUKo8fBVA9Q8b7Vv-5IiLi0WGURsygTgxJ9BZYOo0fJ"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1402945962154000414/eWiPVLR8AoPd8WUFdfRJPZIeV4W7EkOuEvezehhmWy_NjlZP51959mRxx7vHqGGjSI93"
 
 
 def make_post_request(api_url: str, data: dict[str, str]) -> int:
